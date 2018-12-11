@@ -1,6 +1,6 @@
 ## Git 一些高级操作的学习
 
-####1. 如何同步原 repo 到自己 fork 的 repo
+#### 1. 如何同步原 repo 到自己 fork 的 repo
 
 *背景*：有时候原作者在自己的 repo 上做了很多的修改，这时我们 `fork` 的 repo 就落后了很多次的`commit`，这时候需要将原作者的更新同步到我们自己的 repo 中来。
 1. 将自己 fork 的 repo `clone`到本地来
